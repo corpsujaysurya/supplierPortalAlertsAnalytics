@@ -8,11 +8,11 @@
 		<version>3.2.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.kpmg.te.retail.supplierportal.alerts</groupId>
-	<artifactId>supplierPortalAlertsAnalytics</artifactId>
+	<groupId>com.kpmg.te.retail.supplierportal.alertsDashboards</groupId>
+	<artifactId>supplierPortalAlertsDashboards</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>supplierPortalAlertsAnalytics</name>
-	<description>Supplier Portal Alerts and Analytics</description>
+	<name>supplierPortalAlertsDashboards</name>
+	<description>Supplier Portal Alerts and Dashboards</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>

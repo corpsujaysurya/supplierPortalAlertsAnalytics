@@ -1,4 +1,4 @@
-package com.kpmg.te.retail.supplierportal.alertsAnalytics.entity;
+package com.kpmg.te.retail.supplierportal.alertsDashboards.entity;
 
 public class AlertEntity {
 
